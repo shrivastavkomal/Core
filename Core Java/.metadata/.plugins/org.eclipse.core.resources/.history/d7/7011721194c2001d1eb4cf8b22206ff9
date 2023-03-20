@@ -1,0 +1,23 @@
+package in.co.polymorphism;
+
+public class circle extends shape {
+	
+	public circle(String color, int bordetrwidth, int radius) {
+		super(color, bordetrwidth);
+		// TODO Auto-generated constructor stub
+	}
+
+	int radius;
+
+	public int getRadius() {
+		return radius;
+	}
+
+	@Override
+	public double area1() {
+		// TODO Auto-generated method stub
+		return radius*radius;
+	}
+	
+
+}

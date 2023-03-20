@@ -1,0 +1,8 @@
+package Clonning;
+
+public class customer implements Cloneable{
+	String name = null;
+	bankaccount account = null;
+	
+	
+}

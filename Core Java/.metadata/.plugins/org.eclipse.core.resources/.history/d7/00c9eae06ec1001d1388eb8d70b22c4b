@@ -1,0 +1,10 @@
+package in.co.overriding;
+
+public class test_shape {
+	public static void main(String[] args) {
+		rectangle r = new rectangle();
+		shape s= new shape();
+		shape s1 = new rectangle();
+	}
+
+}

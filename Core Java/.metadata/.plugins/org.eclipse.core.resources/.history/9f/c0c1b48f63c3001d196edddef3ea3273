@@ -1,0 +1,10 @@
+package callParentConstructor;
+
+public class person {
+
+	protected String firstName = null;
+	protected String lastName = null;
+	protected String address= null;
+	
+	
+}

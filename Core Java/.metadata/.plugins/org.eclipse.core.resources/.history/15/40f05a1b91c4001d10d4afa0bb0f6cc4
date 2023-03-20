@@ -1,0 +1,11 @@
+package exception_handling;
+
+public class arithmetic_exception {
+	public static void main(String[] args) {
+		int i = 0;
+		int k = 15;
+		System.out.println("Before Exception");
+		
+	}
+
+}

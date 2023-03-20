@@ -1,0 +1,11 @@
+package in.co.polymorphism;
+
+public interface Socialworker {
+	
+	public void helptoOthers();
+
+
+
+	
+
+}

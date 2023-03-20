@@ -1,0 +1,19 @@
+package exception_handling;
+
+public class catch_2 {
+	public static void main(String[] args) {
+		int i = 20;
+		int k =0;
+		System.out.println("Before Exception");
+		catch (Exception e) {
+			// TODO: handle exception
+			try {
+				int c = i/k;
+				System.out.println("Div is"+ c);
+			} catch (Exception e2) {
+				// TODO: handle exception
+			}
+		}
+	}
+
+}

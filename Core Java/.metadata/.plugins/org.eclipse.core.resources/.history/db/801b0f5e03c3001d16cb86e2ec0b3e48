@@ -1,0 +1,41 @@
+package in.co.polymorphism;
+
+public class Businessman implements richman, Socialworker {
+	
+	private String name;
+	private String address;
+
+	@Override
+	public void earnmoney() {
+		System.out.println("Money");
+		
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void donation() {
+		System.out.println("Giving Donation");
+		
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void party() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void helptoOthers() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	}
+	
+	
+	
+
+}

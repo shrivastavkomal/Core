@@ -1,0 +1,12 @@
+package in.co.polymorphism;
+
+public class circle {
+	
+	int radius;
+
+	public int getRadius() {
+		return radius;
+	}
+	
+
+}

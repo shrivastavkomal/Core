@@ -1,0 +1,5 @@
+package callParentConstructor;
+
+public class person {
+
+}

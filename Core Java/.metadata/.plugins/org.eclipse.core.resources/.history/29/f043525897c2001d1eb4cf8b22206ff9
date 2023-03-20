@@ -1,0 +1,24 @@
+package in.co.polymorphism;
+
+public class triangle extends shape{
+	
+	public triangle(String color, int bordetrwidth, int base, int height) {
+		super(color, bordetrwidth);
+		// TODO Auto-generated constructor stub
+	}
+	@Override
+	public double area2() {
+		// TODO Auto-generated method stub
+		return super.area2();
+	}
+	int base;
+	int height;
+	public int getBase() {
+		return base;
+	}
+	public int getHeight() {
+		return base*height;
+	}
+	
+
+}

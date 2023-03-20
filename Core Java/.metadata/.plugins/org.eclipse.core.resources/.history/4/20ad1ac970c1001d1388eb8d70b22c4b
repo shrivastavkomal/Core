@@ -1,0 +1,20 @@
+package in.co.overriding;
+
+public class test_shape {
+	public static void main(String[] args) {
+		rectangle r = new rectangle();
+		shape s= new shape();
+		circle c = new circle();
+		shape s1 = new rectangle();
+		shape s2 = new circle();
+		circle c1 = (circle)s2;
+		rectangle r1 = (rectangle)s1;
+		r1.setBorderwidth(10);
+		r1.setColor("Yellow");
+		r1.setLength(20);
+		r1.setWidth(30);
+		s1.area();
+		System.out.println(r1.getBorderwidth());
+		System.out.println(r1.getColor());
+	}
+}

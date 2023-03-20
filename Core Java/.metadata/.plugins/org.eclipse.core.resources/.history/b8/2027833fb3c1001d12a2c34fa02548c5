@@ -1,0 +1,8 @@
+package excersise6_4;
+
+public class que_1 {
+
+	String s = "Vijay";
+	String a = "Chouhan";
+	
+}

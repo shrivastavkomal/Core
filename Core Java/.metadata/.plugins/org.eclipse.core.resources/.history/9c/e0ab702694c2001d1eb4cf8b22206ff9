@@ -1,0 +1,15 @@
+package in.co.polymorphism;
+
+public class triangle {
+	
+	int base;
+	int height;
+	public int getBase() {
+		return base;
+	}
+	public int getHeight() {
+		return height;
+	}
+	
+
+}

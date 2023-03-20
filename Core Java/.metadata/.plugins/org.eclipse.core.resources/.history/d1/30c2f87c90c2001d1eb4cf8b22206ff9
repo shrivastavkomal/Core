@@ -1,0 +1,11 @@
+package in.co.polymorphism;
+
+public class rectangle extends shape {
+
+	public rectangle(String color, int bordetrwidth) {
+		super(color, bordetrwidth);
+		
+	}
+	
+
+}

@@ -1,0 +1,9 @@
+package Clonning;
+
+public class bankaccount {
+
+	public bankaccount(int i) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

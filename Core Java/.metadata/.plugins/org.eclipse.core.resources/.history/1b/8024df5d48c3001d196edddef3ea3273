@@ -1,0 +1,13 @@
+package in.co.polymorphism;
+
+public class testinterface {
+	public static void main(String[] args) {
+	Businessman bm = new Businessman();
+	bm.donation();
+	bm.earnmoney();
+	bm.helptoOthers();
+	bm.party();
+	
+	}
+
+}

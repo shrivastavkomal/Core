@@ -1,0 +1,29 @@
+package in.co.polymorphism;
+
+public class rectangle extends shape {
+
+	public rectangle(String color, int bordetrwidth) {
+		super(color, bordetrwidth);
+		
+	}
+
+	@Override
+	public String getColor() {
+		// TODO Auto-generated method stub
+		return super.getColor();
+	}
+
+	@Override
+	public int getBordetrwidth() {
+		// TODO Auto-generated method stub
+		return super.getBordetrwidth();
+	}
+
+	@Override
+	public double area() {
+		// TODO Auto-generated method stub
+		return super.area();
+	}
+	
+
+}

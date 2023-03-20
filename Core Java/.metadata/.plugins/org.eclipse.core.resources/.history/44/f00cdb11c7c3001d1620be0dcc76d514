@@ -1,0 +1,9 @@
+package constructor_inheritance;
+
+public class class_A {
+	public class B extends A {
+		public B (int x) {
+			
+		}
+	}
+}

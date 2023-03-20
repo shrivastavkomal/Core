@@ -1,0 +1,28 @@
+package in.co.polymorphism;
+
+public class rectangle extends shape {
+
+	public rectangle(String color, int bordetrwidth) {
+		super(color, bordetrwidth);
+		
+	}
+
+	
+	public String getColor() {
+		
+		return super.getColor();
+	}
+
+	
+	public int getBordetrwidth() {
+		
+		return super.getBordetrwidth();
+	}
+
+	public double area() {
+		
+		return super.area();
+	}
+	
+
+}

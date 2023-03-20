@@ -1,0 +1,13 @@
+package in.co.polymorphism;
+
+public class test_shape {
+
+	public static void main(String[] args) {
+		rectangle r = new rectangle("Red", 5,10, 20);
+		r.getBordetrwidth();
+		r.getColor();
+		r.getLength();
+		r.getWidth();
+		
+	}
+}

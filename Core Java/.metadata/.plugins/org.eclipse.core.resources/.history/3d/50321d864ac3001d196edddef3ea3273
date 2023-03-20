@@ -1,0 +1,12 @@
+package interace;
+
+public class person {
+	
+	public String name;
+	public String address;
+	
+	public void name() {
+		
+	}
+
+}

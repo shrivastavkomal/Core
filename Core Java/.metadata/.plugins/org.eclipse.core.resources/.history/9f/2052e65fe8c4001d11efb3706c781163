@@ -1,0 +1,21 @@
+package Clonning;
+
+public class bankaccount implements Cloneable{
+
+	public bankaccount(int i) {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	protected Object clone() throws CloneNotSupportedException {
+		// TODO Auto-generated method stub
+		return super.clone();
+	}
+double balance = 0;
+public bankaccount(double account) {
+	this.balance=balance;
+}
+	
+	}
+
+

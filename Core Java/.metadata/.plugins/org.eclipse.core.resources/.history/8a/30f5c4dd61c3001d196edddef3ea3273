@@ -1,0 +1,13 @@
+package in.co.public_call_constructor;
+
+import in.co.constructor_call.person;
+
+public class Employee extends person {
+	private String designation = null;
+	public Employee() {
+		System.out.println("Default constructor");
+		
+	}
+	
+
+}

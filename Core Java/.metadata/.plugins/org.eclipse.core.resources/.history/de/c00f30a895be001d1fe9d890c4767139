@@ -1,0 +1,9 @@
+package in.co.opp;
+
+public class account {
+	private String number;
+	private String accountType;
+	private double balance;
+	
+
+}

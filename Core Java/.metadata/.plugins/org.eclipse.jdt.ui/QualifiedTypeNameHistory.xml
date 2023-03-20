@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="practice.dateclass"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="practice.forloop12"/>
+    <fullyQualifiedTypeName name="in.co.basics.ForLoop"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthDesktopIconUI"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="practice.whileloop"/>
+    <fullyQualifiedTypeName name="in.co.opp.shape"/>
+    <fullyQualifiedTypeName name="oop.inheritance.shape"/>
+    <fullyQualifiedTypeName name="oop.inheritance.rectangle_1"/>
+    <fullyQualifiedTypeName name="oop.inheritance.rectangle"/>
+    <fullyQualifiedTypeName name="oop.inheritance.triangle"/>
+    <fullyQualifiedTypeName name="in.co.polymorphism.circle"/>
+    <fullyQualifiedTypeName name="in.co.polymorphism.triangle"/>
+    <fullyQualifiedTypeName name="in.co.polymorphism.rectangle"/>
+    <fullyQualifiedTypeName name="in.co.overriding.circle"/>
+    <fullyQualifiedTypeName name="in.co.polymorphism_array.Shape"/>
+    <fullyQualifiedTypeName name="java.awt.Shape"/>
+    <fullyQualifiedTypeName name="java.awt.Rectangle"/>
+    <fullyQualifiedTypeName name="oop.inheritance.circle"/>
+    <fullyQualifiedTypeName name="in.co.opp.person"/>
+    <fullyQualifiedTypeName name="interace.businessman"/>
+    <fullyQualifiedTypeName name="in.co.constructor_call.person"/>
+    <fullyQualifiedTypeName name="in.co.public_call_constructor.Employee"/>
+    <fullyQualifiedTypeName name="constructor_inheritance.A.B"/>
+    <fullyQualifiedTypeName name="Clonning.customer"/>
+</qualifiedTypeNameHistroy>

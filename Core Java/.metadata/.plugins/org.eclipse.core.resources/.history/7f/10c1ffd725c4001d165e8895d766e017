@@ -1,0 +1,8 @@
+package Clonning;
+
+public class testclass {
+public static void main(String[] args) {
+	customer c1= new customer("komal");
+	customer c2 = (customer)c1.clone();
+			}
+}

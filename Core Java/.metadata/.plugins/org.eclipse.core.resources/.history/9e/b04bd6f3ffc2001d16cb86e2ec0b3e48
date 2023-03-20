@@ -1,0 +1,5 @@
+package in.co.polymorphism;
+
+public interface businessman extends richman{
+
+}

@@ -1,0 +1,11 @@
+package constructor_inheritance;
+
+public class A {
+	public A () {
+		
+		}
+	}
+
+
+
+

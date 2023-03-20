@@ -1,0 +1,28 @@
+package in.co.polymorphism;
+
+import java.awt.Rectangle;
+import java.awt.Shape;
+
+
+
+public class using_array {
+	
+	public static void main(String[] args) {
+		double a=0;
+		Shape[]s = new Shape[3];
+		s[0]=new Rectangle();
+		s[1]=new circle();
+		s[2]=new triangle();
+		
+		
+	rectangle r=(rectangle) s[0];
+	 circle c=(circle)s[1];
+	 triangle t=(triangle)s[2];
+	
+		
+	
+	
+	
+	}
+
+}

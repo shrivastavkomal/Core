@@ -1,0 +1,18 @@
+package exception_handling;
+
+public class arithmetic_exception {
+	public static void main(String[] args) {
+		int i = 20;
+		int b = 0;
+		System.out.println("Before Exception");
+		try {
+			
+		} catch (int c = i/ b ) {
+			// TODO: handle exception
+		}
+		
+		System.out.println("After Exception");
+		System.out.println("Div is"+ c);
+	}
+
+}

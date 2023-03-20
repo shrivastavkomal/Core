@@ -1,0 +1,33 @@
+package interace;
+
+import in.co.opp.person;
+
+public class businessman extends person implements socialworker, Richman{
+
+	@Override
+	public void earnMoney() {
+		System.out.println("Earned Money");
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void donation() {
+		System.out.println("Donation is a good social work");
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void party() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void helpToothers() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

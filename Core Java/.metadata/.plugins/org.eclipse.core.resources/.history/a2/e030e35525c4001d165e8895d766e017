@@ -1,0 +1,9 @@
+package Clonning;
+
+public class bankaccount implements Cloneable{
+
+	public bankaccount(int i) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

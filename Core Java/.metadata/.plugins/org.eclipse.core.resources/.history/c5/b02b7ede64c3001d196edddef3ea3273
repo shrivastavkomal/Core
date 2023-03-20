@@ -1,0 +1,16 @@
+package callParentConstructor;
+
+public class person {
+
+	protected String firstName = null;
+	protected String lastName = null;
+	protected String address= null;
+	
+	public person() {
+		System.out.println("person default constructor");
+		
+	}
+	public person (String a, String b, String address) {
+	}
+	
+}

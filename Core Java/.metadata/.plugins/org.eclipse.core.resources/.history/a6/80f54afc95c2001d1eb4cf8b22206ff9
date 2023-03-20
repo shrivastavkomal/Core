@@ -1,0 +1,28 @@
+package in.co.polymorphism;
+
+public class shape {
+	private String color;
+	private int borderwidth;
+	public String getColor() {
+		return color;
+	}
+	public int getBordetrwidth() {
+		return borderwidth;
+	}
+	public shape(String color, int bordetrwidth) {
+		super();
+		this.color = color;
+		this.borderwidth = bordetrwidth;
+	}
+	public double area() {
+		return 0;
+		
+	}
+	public double area1 () {
+		return 0;
+	}
+	public double area2 () {
+		return 0;
+		
+	}
+}

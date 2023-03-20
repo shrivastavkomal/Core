@@ -1,0 +1,13 @@
+package in.co.opp;
+
+public class test_person {
+	public static void main(String[] args) {
+		person p = new person();
+		p.setName("Divyansh");
+		p.setDob(21/06/2022);
+		p.setAddress("xyz");
+		System.out.println(p.getAddress()+p.getDob()+p.getName());
+		
+	}
+
+}

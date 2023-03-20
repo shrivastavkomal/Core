@@ -1,0 +1,25 @@
+package in.co.polymorphism;
+
+public class test_shape {
+
+	public static void main(String[] args) {
+		rectangle r = new rectangle("Red", 5,10, 20);
+		r.getBordetrwidth();
+		r.getColor();
+		r.getLength();
+		r.getWidth();
+		System.out.println(r.area());
+		System.out.println(r.length);
+		System.out.println(r.width);
+		System.out.println(r.getBordetrwidth());
+		circle c = new circle("Yellow", 5, 22/7);
+		c.getRadius();
+		c.getBordetrwidth();
+		c.getColor();
+		System.out.println(c.radius);
+		System.out.println(c.area1());
+		triangle t = new triangle("Green", 5, 10, 20);
+		t.getBase();	
+		t.height
+	}
+}

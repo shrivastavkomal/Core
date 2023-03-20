@@ -1,0 +1,15 @@
+package interace;
+
+public class test {
+	public static void main(String[] args) {
+		
+	businessman b = new businessman();
+	b.donation();
+	b.earnMoney();
+	b.helpToothers();
+	b.party();
+	b.name();
+	b.address();
+
+}
+}

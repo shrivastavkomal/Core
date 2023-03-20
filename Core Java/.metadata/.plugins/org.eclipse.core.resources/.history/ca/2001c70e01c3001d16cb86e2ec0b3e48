@@ -1,0 +1,26 @@
+package in.co.polymorphism;
+
+public interface businessman extends richman{
+
+	@Override
+	default void earnmoney() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	default void donation() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	default void party() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+	
+
+}
